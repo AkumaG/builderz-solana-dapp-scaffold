@@ -55,7 +55,7 @@ const Home: NextPage = () => {
                 alt="sol"
               />
             </div>
-            <h1 className={styles.h1}>Hello Solana, meet Builderz 👋</h1>
+            <h1 className={styles.h1}>Hello Solana, meet Paulines Tuts 🍆🍆🍆</h1>
             <p className={styles.explain}>
               Explore what you can do with Builderz&rsquo; brand new{" "}
               <b>Builderz Solana dApp Scaffold</b>
